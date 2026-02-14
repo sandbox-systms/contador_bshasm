@@ -84,10 +84,6 @@ Este projeto não preserva registradores callee-saved, pois não há interoperab
 
 ---
 
-## Fluxo de Execução---
-
-## Algoritmos
-
 ### ASCII → Inteiro (`atoi`)
 
 Para cada caractere:
